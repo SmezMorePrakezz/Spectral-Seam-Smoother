@@ -1,8 +1,14 @@
+
 # Spectral Seam Smoother 🎛️
+
+<img width="1152" height="776" alt="GUI" src="https://github.com/user-attachments/assets/9683b28d-c43c-4ff6-bfde-ad2fdc3ba69b" />
 
 Spectral Seam Smoother is a professional, GUI-based digital signal processing (DSP) tool designed to surgically repair visible "seams" or artifacts left behind by audio spectral expansion algorithms.
 
 Instead of relying on standard parametric EQs that require manual node placement, this tool analyzes the spectral trajectory (momentum) leading into and out of a damaged frequency band. It then generates a perfectly smooth, zero-phase Cubic Hermite Spline (Bezier curve) to bridge the gap, effectively erasing the seam while keeping original transients and rhythms flawlessly intact.
+
+<img width="2239" height="656" alt="beforeafter" src="https://github.com/user-attachments/assets/0b1a51a8-ba78-4e62-a261-c0914cce2293" />
+
 
 # ✨ Features
 
